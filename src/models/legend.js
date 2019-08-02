@@ -57,7 +57,7 @@ nv.models.legend = function() {
                     versPadding = 23;
                     break;
                 case 'classic' :
-                    versPadding = 20;
+                    versPadding = 33;
             }
 
             if(vers == 'classic') {
